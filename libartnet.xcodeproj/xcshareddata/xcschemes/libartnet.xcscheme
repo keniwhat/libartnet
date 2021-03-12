@@ -15,7 +15,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "BEC4167525F8CCB600C10353"
-               BuildableName = "liblibartnet.a"
+               BuildableName = "libartnet.a"
                BlueprintName = "libartnet"
                ReferencedContainer = "container:libartnet.xcodeproj">
             </BuildableReference>
@@ -51,7 +51,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "BEC4167525F8CCB600C10353"
-            BuildableName = "liblibartnet.a"
+            BuildableName = "libartnet.a"
             BlueprintName = "libartnet"
             ReferencedContainer = "container:libartnet.xcodeproj">
          </BuildableReference>
